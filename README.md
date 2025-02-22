@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @owais-sadiqque-dayderh
 - 👀 I’m interested in CyberSec
-- 🌱 I’m currently learning PenTesti
-- 📫 How to reach me Linkedin. Just type my name. I'm so famous.
+- 🌱 I’m currently learning Pe***sting
+- 📫 How to reach me Linkedin. Just type my name.
   
 
 <!---
