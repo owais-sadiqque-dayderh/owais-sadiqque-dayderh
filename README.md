@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @owais-sadiqque-dayderh
 - 👀 I’m interested in Learning & Building Cool Stuff
-- 📫 How to reach me in Linkedin. Just type my name.
+- 📫 How to reach me in Linkedin? Just type my name :)
 - 🤖 If there is any Hackathon, then don't forget to mail me at dayderhowaissadiqque@gmail.com.
 
 <!---
